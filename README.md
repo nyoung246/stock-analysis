@@ -7,7 +7,7 @@ The purpose of this analysis is to assist Steve in refactoring the original VBA 
 ### Comparing Performance from 2017 and 2018
 Comparing the stock performances between 2017 and 2018, as seen in the below image, the 2017 stocks all had positive returns with the top performers being DQ with the return of 199.4% and SEDG with the return of 184.5%. However, TERP underperformed with the negative return of -7.2%. In 2018, all stocks seem to have underperformed with negative returns with DQ having -62.6% return and HASI with -60.5% return. The two top performers for this year were RUN with 84.0% return and ENPH with 81.9%. Both ENPG and RUN both seem to be consistent with positive results for both 2017 and 2018 with “Total Daily Volumes” increasing by 173.92% and 87.82% respectfully.
 
-![VBA_Challenge_2017)(https://github.com/nyoung246/stock-analysis/blob/main/resources/VBA_Challenge_2017.PNG)
+![VBA_Challenge_2017](https://github.com/nyoung246/stock-analysis/blob/main/resources/VBA_Challenge_2017.PNG)
 
 ![VBA_Challenge_2018](https://github.com/nyoung246/stock-analysis/blob/main/resources/VBA_Challenge_2018.PNG)
 
